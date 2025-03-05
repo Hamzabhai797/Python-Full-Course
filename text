@@ -1,0 +1,24 @@
+python aik high level language hay ya Artificial intelligence ma bohat kaam aati hai
+python aik indentation wali language hai
+           indentation mean ka kis cheese ko kitna space deky lika hua hay (proper spacing)
+
+    variable wo hota hai jis ki value change ho jai
+    variable ka name ka under Uppercase, lowercase, digit or underscore aasakty hai yani hum ya sab use krky 
+                                                    variable banasakty hain
+    variable ka name koi number sa start nahi ho sakta 
+            Example =  variable1   // correct 
+                       1variable   // incorrect
+    special symbol hum variable ma use nahi karsakty  (@,!,%,$,#)
+    Hum variable ka name bara bhi lik sakty hai python humy variable name rakny pa koi error nahi dega
+        But aik achy programmer ki pehchan ya hote hai ka un ka variable ka name simple, meaning full hotay hai
+
+    python aik case sensitive language hai case sensitive mean ka (small a and capital A) alag alag hongay
+    python aik imlicite type language hai  imlicite mean jaha hum variable ka datatype nahi bataty
+
+    python ma agr situation kuch is tarha aajai jesy ya hai(not True and False or True) to yaad rahy ka pehle
+    not ko tarjee de jai ge pit and ko or last ma or ko 
+    Example:   // not True = false , 
+              // false and false = false
+             // false or true = true
+
+    
