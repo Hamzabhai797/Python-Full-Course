@@ -21,4 +21,6 @@ python aik indentation wali language hai
               // false and false = false
              // false or true = true
 
+    single line if statment ko hum ternary operator bhi kahty hai
+
     

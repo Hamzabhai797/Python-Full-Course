@@ -10,7 +10,7 @@
 # print(price)
 
 
-name = input("Enter Your name: ")
-age = int(input("Enter Your age:"))
-price = float(input("Enter price: "))
-print("My name is: ", name, "I am:", age, "I Have a:", price)
+# name = input("Enter Your name: ")
+# age = int(input("Enter Your age:"))
+# price = float(input("Enter price: "))
+# print("My name is: ", name, "I am:", age, "I Have a:", price)
