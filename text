@@ -23,4 +23,22 @@ python aik indentation wali language hai
 
     single line if statment ko hum ternary operator bhi kahty hai
 
-    
+    Conversion Humary pass 2 types ka hota hai
+        Type Casting  and type Conversion
+        Type Casting ma hum aik type ka variable ko dosry type ka variable zabrdasti yani manually convert karty hain
+        type conversion ma hum aik type ka variable ko dosry type ka variable convert karty hain but conversion ma humy batana nahi partha hai
+    Type Conversion
+        type Conversion jab hum aik type ka variable ko dosry type ka variable ma convert karty hain
+        type conversion 2 types ka hota hai
+            1. Implicit type conversion
+            2. Explicit type conversion
+
+    python ma string ko number ma add nahi kia ja sakta
+
+    type Casting
+    Example:   
+    a = "4"
+    b = 6.23
+    c = int(a)
+    print(b + c)  // output = 10.23
+    is ko type casting kahty hain  ya humy manually karna parta hai

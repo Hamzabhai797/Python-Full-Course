@@ -32,17 +32,18 @@
 # print(not b)  # True
 
 # Assignment Operator
-a = 10
-b = 20
-a += b
-print(a)  # 30
-a -= b
-print(a)  # 10
-a *= b
-print(a)  # 200
-a /= b
-print(a)  # 10.0
-a %= b
-print(a)  # 10.0
-a **= b
-print(a)  # 100000000000000000000
+# a = 10
+# b = 20
+# a += b
+# print(a)  # 30
+# a -= b
+# print(a)  # 10
+# a *= b
+# print(a)  # 200
+# a /= b
+# print(a)  # 10.0
+# a %= b
+# print(a)  # 10.0
+# a **= b
+# print(a)  # 100000000000000000000
+
