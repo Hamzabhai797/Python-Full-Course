@@ -6,3 +6,16 @@
 # not True and False or True        // not True = false , 
                                  # // false and false = false
                                 # // false or true = true
+
+# first = int(input("Enter first number: "))
+# second = int(input("Enter second number: "))
+# print("Sum:", first + second)
+
+# side = float(input("Enter side of square: "))
+# print("area: ", side * side)
+
+
+        # Average Nikalny ka method
+# a = float(input("enter first number: "))
+# b = float(input("enter second number: "))
+# print("avg: ", (a+b)/2)
