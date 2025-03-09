@@ -6,6 +6,11 @@
 
 
 # type casting
+# a = "4"
+# b = 6.23
+# c = int(a)
+# print(b + c)
+
 a = "4"
 b = 6.23
 c = int(a)
