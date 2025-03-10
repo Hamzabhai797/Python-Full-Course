@@ -19,3 +19,7 @@
 # a = float(input("enter first number: "))
 # b = float(input("enter second number: "))
 # print("avg: ", (a+b)/2)
+
+# a = int(input("enter first number: "))
+# b = int(input("enter second number: "))
+# print(a >= b)

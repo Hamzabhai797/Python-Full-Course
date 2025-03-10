@@ -42,3 +42,6 @@ python aik indentation wali language hai
     c = int(a)
     print(b + c)  // output = 10.23
     is ko type casting kahty hain  ya humy manually karna parta hai
+
+                        Chapter 02
+        string ko hum 3 different methods sa store kar sakty hai(single comma, double comma, triple comma)
