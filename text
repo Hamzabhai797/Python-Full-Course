@@ -43,5 +43,15 @@ python aik indentation wali language hai
     print(b + c)  // output = 10.23
     is ko type casting kahty hain  ya humy manually karna parta hai
 
-                        Chapter 02
+                                     Chapter 02
         string ko hum 3 different methods sa store kar sakty hai(single comma, double comma, triple comma)
+        python ma spaces ko ignore Nahi kia jata us ko bhi count kia jata hai
+        string ma Humary pass positive and negitive dono indexing hote hai
+
+        positive indexing
+                        str = "My self hamza"
+                        print(str[4:8])
+                        print(str[:8])
+
+        negitive indexing
+        negitive slicing ma starting index print nahi hota            
