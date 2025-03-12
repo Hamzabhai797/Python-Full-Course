@@ -44,4 +44,16 @@
 # str = "hamza"
 # print(str[-4:-2])
 
-# time = 2:53:00
+        # string function
+# str = "hamza"
+# print(str.endswith("za"))
+
+# str = "hamza"
+# print(str.startswith("h"))
+
+# str = "hamza"
+# print(str.capitalize())
+
+str = "hamza"
+str = str.capitalize()
+print(str)

@@ -54,4 +54,11 @@ python aik indentation wali language hai
                         print(str[:8])
 
         negitive indexing
-        negitive slicing ma starting index print nahi hota            
+        negitive slicing ma starting index print nahi hota
+
+        string function
+        string function ma sary functionsko print karty waqat round bracket lagany party hai
+        endswith and startwith waly function ma agr hum koi string pass karty hain to wo humy true ya false return karty hain
+        agr kisi bhi endswith ya startwith ki value ma hum zra barabr bhi changing nahi karsakty answer  sahi lany ka liay
+        humy exact value pass karni parti hai (yani case sensitive) (startswith("h") or startswith("H"))
+        (startswith("h") or startswith("H")) agr is tarha lika ho to answer false aai ga          
