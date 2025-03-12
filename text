@@ -61,4 +61,9 @@ python aik indentation wali language hai
         endswith and startwith waly function ma agr hum koi string pass karty hain to wo humy true ya false return karty hain
         agr kisi bhi endswith ya startwith ki value ma hum zra barabr bhi changing nahi karsakty answer  sahi lany ka liay
         humy exact value pass karni parti hai (yani case sensitive) (startswith("h") or startswith("H"))
-        (startswith("h") or startswith("H")) agr is tarha lika ho to answer false aai ga          
+        (startswith("h") or startswith("H")) agr is tarha lika ho to answer false aai ga 
+        
+        // str = "I am studing python from youtube"
+        // print(str.replace("am", "in"))  // replace function ma jo pehla argument hoga wo replace hoga dosra argument sa
+
+        .find function ma humary pass word ka index aei ga  (agr word nahi mila to -1 aei ga)

@@ -54,6 +54,14 @@
 # str = "hamza"
 # print(str.capitalize())
 
-str = "hamza"
-str = str.capitalize()
-print(str)
+# str = "hamza"
+# str = str.capitalize()
+# print(str)
+
+# str = "I am studing python from youtube"
+# print(str.replace("am", "in"))  // replace function ma jo pehla argument hoga wo replace hoga dosra argument sa
+
+# str = "I am studing python from youtube"
+# print(str.find("z"))
+
+time= "2:58:00"
