@@ -64,4 +64,8 @@
 # str = "I am studing python from youtube"
 # print(str.find("z"))
 
-time= "2:58:00"
+# str = "i am learning python from youtube"
+# print(str.split(" "))  # split function ma jo argument hoga wo string ko split karaga
+
+str = "i am learning python from youtube"
+print(str.count("m")) # count function ma jo argument hoga wo kitni bar repeat ho raha ha wo count karaga

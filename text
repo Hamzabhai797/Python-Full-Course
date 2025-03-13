@@ -67,3 +67,9 @@ python aik indentation wali language hai
         // print(str.replace("am", "in"))  // replace function ma jo pehla argument hoga wo replace hoga dosra argument sa
 
         .find function ma humary pass word ka index aei ga  (agr word nahi mila to -1 aei ga)
+        split function ma humy string ko split karna hota hai
+        Example (her aik word ko alag alag string ma convert karna)
+        ['i', 'am', 'learning', 'python', 'from', 'youtube']
+
+        str = "i am learning python from youtube"
+        print(str.count("m")) # count function ma jo argument hoga wo kitni bar repeat ho raha ha wo count karaga
