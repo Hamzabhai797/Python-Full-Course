@@ -12,3 +12,12 @@
 
 # str = "HAMZA bhai is a best teacher"
 # print(str.replace("HAMZA", "osama"))
+
+# str = "HAMZA bhai is a best teacher"
+# print(str.startswith("H"))
+
+# str = "HAMZA bhai is a best teacher"
+# print(str.endswith("r"))
+
+# str = "HAMZA bhai is a best teacher"
+# print(str.capitalize())

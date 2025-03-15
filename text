@@ -16,7 +16,7 @@ python aik indentation wali language hai
     python aik imlicite type language hai  imlicite mean jaha hum variable ka datatype nahi bataty
 
     python ma agr situation kuch is tarha aajai jesy ya hai(not True and False or True) to yaad rahy ka pehle
-    not ko tarjee de jai ge pit and ko or last ma or ko 
+    not ko tarjee de jai ge pir and ko or last ma or ko 
     Example:   // not True = false , 
               // false and false = false
              // false or true = true
@@ -57,18 +57,19 @@ python aik indentation wali language hai
         negitive slicing ma starting index print nahi hota
 
         string function
-        string function ma sary functionsko print karty waqat round bracket lagany party hai
+        string function ma sary functions ko print karty waqat round bracket lagany party hai
         endswith and startwith waly function ma agr hum koi string pass karty hain to wo humy true ya false return karty hain
         agr kisi bhi endswith ya startwith ki value ma hum zra barabr bhi changing nahi karsakty answer  sahi lany ka liay
         humy exact value pass karni parti hai (yani case sensitive) (startswith("h") or startswith("H"))
-        (startswith("h") or startswith("H")) agr is tarha lika ho to answer false aai ga 
+        (startswith("h") or startswith("H")) agr is tarha lika ho to answer false aai ga kyun ka is ma aik (h capital hai or aik small)
         
         // str = "I am studing python from youtube"
         // print(str.replace("am", "in"))  // replace function ma jo pehla argument hoga wo replace hoga dosra argument sa
 
         .find function ma humary pass word ka index aei ga  (agr word nahi mila to -1 aei ga)
         split function ma humy string ko split karna hota hai
-        Example (her aik word ko alag alag string ma convert karna)
+        (her aik word ko alag alag string ma convert karna)
+        Example:
         ['i', 'am', 'learning', 'python', 'from', 'youtube']
 
         str = "i am learning python from youtube"
