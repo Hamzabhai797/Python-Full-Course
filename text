@@ -74,3 +74,5 @@ python aik indentation wali language hai
 
         str = "i am learning python from youtube"
         print(str.count("m")) # count function ma jo argument hoga wo kitni bar repeat ho raha ha wo count karaga
+
+    conditional Statment  (if, elif, else)
