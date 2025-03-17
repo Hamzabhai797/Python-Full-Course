@@ -21,4 +21,26 @@
 # else:
 #     print("Not apply for licence")
 
-time = "3:7:00"
+# light = "blue"
+
+# if(light == "red"):
+#     print("stop")
+# elif(light == "yellow"):
+#     print("warning")
+# elif(light == "green"):
+#     print("ok go")
+# else:
+#     print("light is broken")
+
+# num = 5
+# if(num > 2):
+#     print("grater than 2")
+# if(num > 3):
+#     print("greater than 3")
+
+age = 18
+if(age >= 18):
+    print("can vote")
+else:
+    print("can not vote")
+# time = "3:12:50"

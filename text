@@ -76,3 +76,7 @@ python aik indentation wali language hai
         print(str.count("m")) # count function ma jo argument hoga wo kitni bar repeat ho raha ha wo count karaga
 
     conditional Statment  (if, elif, else)
+        if statment humesha condition ka liay check kary ga
+        elif statment jab bhi if statment false dedegi tab check kary ge
+        else statment ma hum koi condition check Nahi karty matlab agr uper wali sary condition false ho jai to else statment chalay gi
+        
