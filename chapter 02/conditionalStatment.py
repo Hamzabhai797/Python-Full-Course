@@ -43,4 +43,4 @@ if(age >= 18):
     print("can vote")
 else:
     print("can not vote")
-# time = "3:12:50"
+# time = "3:15:00"
