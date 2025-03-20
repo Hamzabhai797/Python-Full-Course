@@ -80,3 +80,9 @@ python aik indentation wali language hai
         elif statment jab bhi if statment false dedegi tab check kary ge
         else statment ma hum koi condition check Nahi karty matlab agr uper wali sary condition false ho jai to else statment chalay gi
         
+        Nesting condition
+            if ka under aik or if likhna
+        Example 
+            if(condition1):
+                if(condition2):
+                    print

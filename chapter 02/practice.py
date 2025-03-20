@@ -21,3 +21,15 @@
 
 # str = "HAMZA bhai is a best teacher"
 # print(str.capitalize())
+
+# num = int(input("Enter Number: "))
+# if(num % 2 == 0):
+#     print("This is even number")
+# else:
+#     print("This Number is not even")
+
+num = int(input("Enter a number: "))
+if(num % 2 != 0):
+    print("This number is odd")
+else:
+    print("This number is even")
