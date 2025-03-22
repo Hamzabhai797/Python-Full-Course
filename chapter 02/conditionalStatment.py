@@ -91,6 +91,3 @@
 #         print("can drive")
 # else:
 #     print("Cannot drive")
-
-
-# time = "3:15:00"
