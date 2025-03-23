@@ -86,3 +86,12 @@ python aik indentation wali language hai
             if(condition1):
                 if(condition2):
                     print
+
+                    Chapter 03
+                list = 
+                list ma hum kisi bhi type ki value store kar sakty hain
+                list ma hum duplicate value bhi store kar sakty hain
+                list ma humary pass positive and negitive dono indexing hoti hai
+                list ma humary pass square bracket hoty hain
+                list mutable hoti hai (yani hum list ma value change kar sakty hain)
+                
