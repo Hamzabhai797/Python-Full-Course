@@ -34,4 +34,20 @@
 # else:
 #     print("This number is even")
 
-# time = "3:23:00"
+# a = int(input("Enter first number: "))
+# b = int(input("Enter second number: "))
+# c = int(input("Enter third number: "))
+# if(a >= b and a >= c):
+#     print("A is greater", a)
+# elif(b >= a and b >= c):
+#     print("B is greater:", b)
+# else:
+#     print("C is greater:", c)
+
+num = int(input("Enter a number: "))
+if(num % 7 == 0):
+    print("Multiple of 7")
+else:
+    print("Not multiple of 7")
+
+# time = "3:29:00"
