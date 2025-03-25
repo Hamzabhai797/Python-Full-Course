@@ -44,10 +44,8 @@
 # else:
 #     print("C is greater:", c)
 
-num = int(input("Enter a number: "))
-if(num % 7 == 0):
-    print("Multiple of 7")
-else:
-    print("Not multiple of 7")
-
-# time = "3:29:00"
+# num = int(input("Enter a number: "))
+# if(num % 7 == 0):
+#     print("Multiple of 7")
+# else:
+#     print("Not multiple of 7")
