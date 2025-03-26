@@ -94,4 +94,4 @@ python aik indentation wali language hai
                 list ma humary pass positive and negitive dono indexing hoti hai
                 list ma humary pass square bracket hoty hain
                 list mutable hoti hai (yani hum list ma value change kar sakty hain)
-                
+                list ka under bhi slicing possible hay

@@ -14,4 +14,8 @@
 # student[0] = 'Khan'
 # print(student)          # ['Khan', 21, 'Karachi']
 
+#list methods
+
+
+
 # time = "3:35:00"
