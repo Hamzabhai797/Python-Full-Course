@@ -95,3 +95,14 @@ python aik indentation wali language hai
                 list ma humary pass square bracket hoty hain
                 list mutable hoti hai (yani hum list ma value change kar sakty hain)
                 list ka under bhi slicing possible hay
+                list ma .append method sa hum value add kar sakty hain last ma
+                list ma .sort method sa hum value ko sort kar sakty hain (ascending order mean tarteeb sa likna)
+list = [40, 50, 10, 80, 100]
+list.sort(reverse=True)
+print(list)  # [100, 80, 50, 40, 10] descending order
+                list ma .reverse method sa hum value ko reverse kar sakty hain
+                list ma .pop method sa hum value ko remove kar sakty hain (last aik value remove ho jaye gi)
+                list ma .remove method sa hum value ko remove kar sakty hain (jo value hum remove karna chah rahy hain us ka index pass karna parta hai)
+                list ma .clear method sa hum sary value ko remove kar sakty hain(yani liat empty ho jaye ge)
+                list ma .copy method sa hum list ko copy kar sakty hain
+                list ma .insert method sa hum value add kar sakty hain kisi bhi index pa
