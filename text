@@ -1,5 +1,5 @@
-python aik high level language hay ya Artificial intelligence ma bohat kaam aati hai
-python aik indentation wali language hai
+    python aik high level language hay ya Artificial intelligence ma bohat kaam aati hai
+    python aik indentation wali language hai
            indentation mean ka kis cheese ko kitna space deky lika hua hay (proper spacing)
 
     variable wo hota hai jis ki value change ho jai
@@ -44,9 +44,9 @@ python aik indentation wali language hai
     is ko type casting kahty hain  ya humy manually karna parta hai
 
                                      Chapter 02
-        string ko hum 3 different methods sa store kar sakty hai(single comma, double comma, triple comma)
-        python ma spaces ko ignore Nahi kia jata us ko bhi count kia jata hai
-        string ma Humary pass positive and negitive dono indexing hote hai
+    string ko hum 3 different methods sa store kar sakty hai(single comma, double comma, triple comma)
+    python ma spaces ko ignore Nahi kia jata us ko bhi count kia jata hai
+    string ma Humary pass positive and negitive dono indexing hote hai
 
         positive indexing
                         str = "My self hamza"
@@ -75,7 +75,7 @@ python aik indentation wali language hai
         str = "i am learning python from youtube"
         print(str.count("m")) # count function ma jo argument hoga wo kitni bar repeat ho raha ha wo count karaga
 
-    conditional Statment  (if, elif, else)
+        conditional Statment  (if, elif, else)
         if statment humesha condition ka liay check kary ga
         elif statment jab bhi if statment false dedegi tab check kary ge
         else statment ma hum koi condition check Nahi karty matlab agr uper wali sary condition false ho jai to else statment chalay gi
@@ -87,22 +87,36 @@ python aik indentation wali language hai
                 if(condition2):
                     print
 
-                    Chapter 03
-                list = 
-                list ma hum kisi bhi type ki value store kar sakty hain
-                list ma hum duplicate value bhi store kar sakty hain
-                list ma humary pass positive and negitive dono indexing hoti hai
-                list ma humary pass square bracket hoty hain
-                list mutable hoti hai (yani hum list ma value change kar sakty hain)
-                list ka under bhi slicing possible hay
-                list ma .append method sa hum value add kar sakty hain last ma
-                list ma .sort method sa hum value ko sort kar sakty hain (ascending order mean tarteeb sa likna)
-list = [40, 50, 10, 80, 100]
-list.sort(reverse=True)
-print(list)  # [100, 80, 50, 40, 10] descending order
-                list ma .reverse method sa hum value ko reverse kar sakty hain
-                list ma .pop method sa hum value ko remove kar sakty hain (last aik value remove ho jaye gi)
-                list ma .remove method sa hum value ko remove kar sakty hain (jo value hum remove karna chah rahy hain us ka index pass karna parta hai)
-                list ma .clear method sa hum sary value ko remove kar sakty hain(yani liat empty ho jaye ge)
-                list ma .copy method sa hum list ko copy kar sakty hain
-                list ma .insert method sa hum value add kar sakty hain kisi bhi index pa
+                Chapter 03
+            list = 
+            list humary pass mutable hoti hai
+            list ma humary pass square bracket hoty hain
+            list ma hum kisi bhi type ki value store kar sakty hain
+            list ma hum duplicate value bhi store kar sakty hain
+            list ma humary pass positive and negitive dono indexing hoti hai
+            list mutable hoti hai (yani hum list ma value change kar sakty hain)
+            list ka under bhi slicing possible hay
+            list ma .append method sa hum value add kar sakty hain last ma
+            list ma .sort method sa hum value ko sort kar sakty hain (ascending order mean tarteeb sa likna)
+            list = [40, 50, 10, 80, 100]
+            list.sort(reverse=True)
+            print(list)  # [100, 80, 50, 40, 10] descending order
+            list ma .reverse method sa hum value ko reverse kar sakty hain
+            list ma .pop method sa hum value ko remove kar sakty hain (last ma aik value remove ho jaye gi)
+            list ma .remove method sa hum value ko remove kar sakty hain (jo value hum remove karna chah rahy hain us ka index pass karna parta hai)
+            list ma .clear method sa hum sary value ko remove kar sakty hain(yani liat empty ho jaye ge)
+            list ma .copy method sa hum list ko copy kar sakty hain
+            list ma .insert method sa hum value add kar sakty hain kisi bhi index pa
+            Example:
+            list = [40, 50, 10, 80, 100]
+            list.insert(2, 70)
+            print(list)  #(is ma 70 3rd position pe add ho jaye ga 10 sa pehle)
+
+
+                    tuples = ()
+            tuples humary pass immutable hoti ha
+            tuple ma humary pass round bracket hoty hay
+            tuple ma agr humary pass aik value hay (Example: tuple = (1) to is tarha python is ko interger samjhe ga is liay humy 1 ka bad aik comma laga pary ga (tuple = (1,) is tarha))
+            tuple ka under bhi slicing karn possible hay and same list ki tarha work karti hay
+
+            palindrome wo hoti hai jo ulta bhi seedha hi hoti hai (Example: madam, level, radar)
