@@ -63,3 +63,22 @@
 #     print("Grade D")
 # else:
 #     print("Grade F")
+
+
+# a = "hamza"
+# print(a.upper())
+
+# a = "HAMZA"
+# print(a.lower())
+
+# a = "hamza"
+# print(len(a))
+
+# text = "hamza"
+# print(text.replace("hamza", "khan"))
+
+# a = "certain"
+# print(a.startswith("c"))
+
+a = "certain"
+print(a.endswith("c"))
