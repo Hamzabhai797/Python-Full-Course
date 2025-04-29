@@ -28,3 +28,11 @@
 # b = 6.23
 # c = int(a)
 # print(b + c)
+
+# a = "nabeel khan"
+# print(a)
+
+# a = 8
+# b = 3
+# c = a // b
+# print(c) 

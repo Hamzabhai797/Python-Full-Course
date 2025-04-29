@@ -41,7 +41,8 @@
 # str = "hamza"
 # print(str[-3:-1])
 
-# str = "hamza"
+str = "hamza"
+# print(str[-5:-2])
 # print(str[-4:-2])
 
         # string function
@@ -50,6 +51,10 @@
 
 # str = "hamza"
 # print(str.startswith("h"))
+
+# str = "hamza"
+# str.capitalize()
+# print(str)
 
 # str = "hamza"
 # print(str.capitalize())
@@ -69,3 +74,7 @@
 
 # str = "i am learning python from youtube"
 # print(str.count("m")) # count function ma jo argument hoga wo kitni bar repeat ho raha ha wo count karaga
+
+num = int(input("enter any number: "))
+for i in range(1, 11):
+     print(f"{num} * {i} = {num * i}")

@@ -1,8 +1,8 @@
 # type conversion
-# a = 2
-# b = 4.25
-# sum = a + b
-# print("Sum:", sum)
+a = 2
+b = 4.25
+sum = a + b
+print("Sum:", sum)
 
 
 # type casting

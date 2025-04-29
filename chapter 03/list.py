@@ -63,3 +63,18 @@
 #     print("Palindrome")
 # else:
 #     print("Not Palindrome")
+
+# list = [1, 2, 3, 4, 5]
+# print(list[1:3])
+
+# list = [1, 2, 3, 4, 5]
+# print(list[::2])
+
+# list = [1, 2, 3, 4, 5]
+# print(list[:2])
+
+# list = [1, 2, 3, 4, 5]
+# print(list[:4])
+
+# list = [1, 2, 3, 4, 5]
+# print(list[:-1])

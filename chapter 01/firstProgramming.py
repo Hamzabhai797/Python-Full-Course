@@ -18,3 +18,4 @@
 # float     decimal numbers (24.87)
 # boolean   True , false
 # None         None ma hum koi bhi value store nahi karana chahty
+

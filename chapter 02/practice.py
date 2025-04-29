@@ -80,5 +80,56 @@
 # a = "certain"
 # print(a.startswith("c"))
 
-a = "certain"
-print(a.endswith("c"))
+# a = "certain"
+# print(a.endswith("c"))
+
+# a = "hamza"
+# print(a.capitalize())
+# print(a.title())
+
+# num = int(input("enter number: "))
+# if num % 2 == 0:
+#     print("this is even number")
+# else:
+#     print("this is odd number")
+
+# num = int(input("Enter a number: "))
+# if num >= 90 and num <= 100:
+#     print("grade A+")
+# else:
+#     print("fail")
+
+# number = int(input("enter a number: "))
+# if number >= 50 and number <= 100:
+#     print("pass")
+# elif number >= 40 and number <= 49:
+#     print("grade normal")
+# else:
+#     print("fail")
+
+# item = input("enter a item: ")
+# if item == "apple":
+#     print("Apple are available")
+# elif item == "banana":
+#     print("is available")
+# else:
+#     print("store is closed")
+
+# num = int(input("enter number: "))
+# for i in range(1, 11):
+#    if i % 2 == 0:
+#       print("this is even")
+#    else:
+#       print("this is odd")
+
+# for i in range(2, 21, 2):
+#     print(i)
+
+# x = "hello"
+# y = x*2
+# print(y)
+
+# print(type(5/2))
+
+# x = [1, 2, 3, 4]
+# print(x*2)

@@ -120,3 +120,15 @@
             tuple ka under bhi slicing karn possible hay and same list ki tarha work karti hay
 
             palindrome wo hoti hai jo ulta bhi seedha hi hoti hai (Example: madam, level, radar)
+
+            dictionary = {}
+            dictionary ma humary pass curly bracket hoty hain
+            dictionary ma humary pass key and value hoty hain (key: value)
+            dictionary ma humary pass key unique hoti hain yani duplicate nahi hoti
+            dictionary ma humary pass key ko access karne ka liay humy key ka naam likhna parta hai (Example: dict = {"name": "hamza"} print(dict["name"]))
+            dictionary ma humary pass key ko update karne ka liay humy key ka naam likhna parta hai (Example: dict = {"name": "hamza"} dict["name"] = "ali" print(dict)  # output = {"name": "ali"})
+            dictionary ma humary pass key ko delete karne ka liay humy del function use karna parta hai (Example: dict = {"name": "hamza"} del dict["name"] print(dict)  # output = {})
+            dictionary ma humary pass key ko check karne ka liay humy in function use karna parta hai (Example: dict = {"name": "hamza"} print("name" in dict)  # output = True)
+            dictionary ma humary pass key ko get karne ka liay humy get function use karna parta hai (Example: dict = {"name": "hamza"} print(dict.get("name"))  # output = hamza)
+            dictionary ma multiple key and value store kar saktay hain (Example: dict = {"name": "hamza", "age": 20, "city": "karachi"})
+            
