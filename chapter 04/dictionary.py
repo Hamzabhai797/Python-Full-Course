@@ -33,6 +33,3 @@
 student = {"name": "hamza", "marks": {"math": 90, "ict": 80, "pf": 70}, "age": 22, "country": "Pakistan"} 
 print(student.update({"marks": 100}))
 print(student)
-
-
-# time = "4:8: 00"
