@@ -130,5 +130,8 @@
             dictionary ma humary pass key ko delete karne ka liay humy del function use karna parta hai (Example: dict = {"name": "hamza"} del dict["name"] print(dict)  # output = {})
             dictionary ma humary pass key ko check karne ka liay humy in function use karna parta hai (Example: dict = {"name": "hamza"} print("name" in dict)  # output = True)
             dictionary ma humary pass key ko get karne ka liay humy get function use karna parta hai (Example: dict = {"name": "hamza"} print(dict.get("name"))  # output = hamza)
-            dictionary ma multiple key and value store kar saktay hain (Example: dict = {"name": "hamza", "age": 20, "city": "karachi"})
-            
+            dictionary ma multiple key and value store kar saktay hain (Example: dict = {"name": "hamza", "age": 20, "city": "karachi"}) and list array bhi store karsakty hai (Example: dict = {"name": "hamza", "age": 20, "city": ["karachi", "lahore"]})
+            dictionary ma humary pass keys hote hay us ma hum list and dictionary ko use Nahi kar sakty (Example: dict = {"name": "hamza", "age": 20, "city": {"karachi": "lahore"}})
+            duplicate mutable hote hain
+            dictionary unordered hote hain yani is ma koi tarteeb nahi hota
+            dictionary ma hum duplicate keys create Nahi kar sakty (Example: dict = {"name": "hamza", "name": "ali"} to is ma last wali value aei gi yani ali)
