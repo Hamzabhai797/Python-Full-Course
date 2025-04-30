@@ -19,8 +19,16 @@
 #     print(4*i)
 #     i += 1
 
-num = [1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
+# num = [1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
+# idx = 0
+# while idx < len(num):
+#     print(idx)
+#     idx += 1
+
+num = (1, 4, 9, 16, 25, 36, 49, 64, 81, 100)
+x = 49
 idx = 0
 while idx < len(num):
-    print(idx)
+    if(num[idx] == x):
+        print("found at index", idx)
     idx += 1
