@@ -25,10 +25,15 @@
 #     print(idx)
 #     idx += 1
 
-num = (1, 4, 9, 16, 25, 36, 49, 64, 81, 100)
-x = 49
-idx = 0
-while idx < len(num):
-    if(num[idx] == x):
-        print("found at index", idx)
-    idx += 1
+# num = (1, 4, 9, 16, 25, 36, 49, 64, 81, 100)
+# x = 49
+# idx = 0
+# while idx < len(num):
+#     if(num[idx] == x):
+#         print("found at index", idx)
+#     idx += 1
+
+count = 1
+while count < 10:
+    print(count)
+    count += 1
