@@ -33,7 +33,19 @@
 #         print("found at index", idx)
 #     idx += 1
 
-count = 1
-while count < 10:
-    print(count)
-    count += 1
+# count = 1
+# while count < 10:
+#     print(count)
+#     count += 1
+
+# i = 1
+# while i < 5:
+#     print(i)
+#     i += 1
+
+# i = 1
+# while i < 10:
+#     print(i)
+#     if i == 4:
+#         break
+#     i == 1
