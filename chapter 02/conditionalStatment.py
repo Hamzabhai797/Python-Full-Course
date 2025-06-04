@@ -91,3 +91,63 @@
 #         print("can drive")
 # else:
 #     print("Cannot drive")
+
+# num = int(input("Enter a number: "))
+
+# if num >= 90 and num <= 100:
+#     print("Your grade is A 1")
+# elif num >= 80 and num <= 89:
+#     print("Your grade is B")
+# elif num >= 70 and num <= 79:
+#     print("Your grade is C")
+# elif num >= 60 and num <= 69:
+#     print("Your grade is D")
+# else:
+#     print("Your grade is F")
+
+# name = input("enter student name: ")
+# roll_num = input("enter roll number: ")
+# num_subject = input("Enter number of subject: ")
+# marks = []
+# for i in range(num_subject):
+#     marks = float(input(f"Enter marks for subject{i + 1}"))
+#     marks.append(marks)
+
+# total_marks = sum(marks)
+# percentage = total_marks / (num_subject*100)*100
+# if percentage >= 90:
+#     grade = "A+"
+# elif percentage >= 80:
+#     grade = "A"
+# elif percentage >= 70:
+#     grade = "B"
+# elif percentage >= 60:
+#     grade = "C"
+# elif percentage >= 50:
+    # grade = "D"
+# else:
+    # grade = "F"
+
+
+# num = float(input("Enter a number: "))
+# if num > 0:
+#     print("this is a +ve number")
+# elif num < 0:
+#     print("This is a -ve number")
+# else:
+#     print("Num is zero")
+
+# fruit = ["Apple", "banana", "orange", "mango", "cherry"]
+# fruit.append("grape")
+# fruit.append("kiwi")
+# for i in fruit:
+#     print(i)
+
+# cities = ("karachi", "lahore", "isl")
+# print(cities)
+
+# def greet(name):
+#     print(f"hello, {name}")
+# greet("hamza")
+# greet("Nabeel")
+# greet("ghani")
