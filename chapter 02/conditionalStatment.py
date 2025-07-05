@@ -119,14 +119,14 @@
 #     grade = "A+"
 # elif percentage >= 80:
 #     grade = "A"
-# elif percentage >= 70:
+# # elif percentage >= 70:
 #     grade = "B"
 # elif percentage >= 60:
 #     grade = "C"
 # elif percentage >= 50:
-    # grade = "D"
+#     grade = "D"
 # else:
-    # grade = "F"
+#     grade = "F"
 
 
 # num = float(input("Enter a number: "))
@@ -151,3 +151,44 @@
 # greet("hamza")
 # greet("Nabeel")
 # greet("ghani")
+
+
+# Marksheet code
+# name = input("Enter a name: ")
+# rollnum = int(input("Enter roll number: "))
+
+# sub1 = int(input("Enter Eng Marks: "))
+# sub2 = int(input("Enter Calculus Marks: "))
+# sub3 = int(input("Enter ICT Marks: "))
+# sub4 = int(input("Enter Pf Marks: "))
+
+# total = sub1 + sub2 + sub3 + sub4
+# percentage = total/4
+
+# if percentage >= 90 and percentage <= 100:
+#     grade = "A"
+# elif percentage >= 80 and percentage <= 90:
+#     grade = "B"
+# elif percentage >= 70 and percentage <= 80:
+#     grade = "C"
+# else:
+#     grade = "F"
+# print(f"/n-----Marksheet-----")
+# print(f"Name: {name}")
+# print(f"Roll Num: {rollnum}")
+# print(f"Subject: {sub1}, {sub2}, {sub3}, {sub4}")
+# print(f"Total: {total}")
+# print(f"Percentage: {percentage}%")
+# print(f"Grade {grade}")
+
+
+# def addfunc(a, b):
+#     return a + b
+# a = int(input("enter first number: "))
+# b = int(input("enter second number"))
+# print(addfunc(a, b))
+
+for i in range(1, 6):
+    for j in range(1, 4):
+        print(j, end="")
+    print()

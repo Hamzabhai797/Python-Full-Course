@@ -36,3 +36,12 @@
 # b = 3
 # c = a // b
 # print(c) 
+
+# let = "journey"
+# print(let.endswith("y"))
+
+# let = "journey"
+# print(let.capitalize())
+
+let = "journey"
+print(let[-7, -1])
