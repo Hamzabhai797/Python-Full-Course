@@ -43,5 +43,15 @@
 # let = "journey"
 # print(let.capitalize())
 
-let = "journey"
-print(let[-7, -1])
+# a = int(input("enter first number: "))
+# b = int(input("enter second number: "))
+# c = a + b
+# print("total: ", c)
+
+# side = int(input("enter square side: "))
+# area = side * side
+# print("area of square: ", area)
+
+a = float(input("Enter first number: "))
+b = float(input("Enter second number: "))
+print("avg :", (a + b)/2)
