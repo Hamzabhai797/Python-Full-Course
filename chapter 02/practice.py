@@ -133,3 +133,34 @@
 
 # x = [1, 2, 3, 4]
 # print(x*2)
+
+
+# str = "hamza"
+# print(str.endswith("a"))
+
+# str = "hamza"
+# print(str.startswith("a"))
+
+# str = "hamza"
+# print(str.replace("h", "b"))
+
+# str = "hamza"
+# print(str.find("z"))
+
+# str = "hamza"
+# print(str.count("a"))
+
+# str = "hamza"
+# print(str.capitalize())
+
+# a = input("Enter a sentence: ")
+# print(len(a))
+
+# str = "Hi $I am tha $ symbol $ 99.98"
+# print(str.find("$"))
+
+# num = int(input("Enter a number: "))
+# if num % 2 == 0:
+#     print("This is an even number")
+# else:
+#     print("This is an odd number")

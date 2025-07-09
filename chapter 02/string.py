@@ -41,8 +41,8 @@
 # str = "hamza"
 # print(str[-3:-1])
 
-str = "hamza"
-# print(str[-5:-2])
+# str = "hamza"
+# print(str[-5:-1])
 # print(str[-4:-2])
 
         # string function
@@ -74,7 +74,3 @@ str = "hamza"
 
 # str = "i am learning python from youtube"
 # print(str.count("m")) # count function ma jo argument hoga wo kitni bar repeat ho raha ha wo count karaga
-
-num = int(input("enter any number: "))
-for i in range(1, 11):
-     print(f"{num} * {i} = {num * i}")
