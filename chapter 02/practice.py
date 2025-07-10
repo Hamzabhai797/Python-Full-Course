@@ -164,3 +164,21 @@
 #     print("This is an even number")
 # else:
 #     print("This is an odd number")
+
+# a = int(input("Enter first num: "))
+# b = int(input("Enter second num: "))
+# c = int(input("Enter third num: "))
+
+# if a >= b and a >= c:
+#     print("A is greater:", a)
+# elif b >= c:
+#     print("B is greater:", b)
+# else:
+#     print("C is greater:", c)
+
+
+# num = int(input("Enter a number: "))
+# if num  % 7 ==0:
+#     print("This is a multiple of 7")
+# else:
+#     print("This is not a multiple of 7")
