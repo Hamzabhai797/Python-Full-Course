@@ -71,6 +71,25 @@
 # print(fruits)
 # print(fruits.count("e"))
 
-fruits = ["apple", "banana", "cherry", "date", "elderberry"]
-fruits[date] = "dragonfruit"
-print(fruit)
+# list = []
+# mov1 = input("Enter first movie: ")
+# mov2 = input("Enter second movie: ")
+# mov3 = input("Enter third movie: ")
+
+# list.append(mov1)
+# list.append(mov2)
+# list.append(mov3)
+# print(list)
+
+# list = ["madam"]
+# if list == list[::-1]:
+#     print("Palindrome")
+# else:
+#     print("Not Palindrome")
+
+# grade = ("b", "a", "c", "b", "a", "c")
+# print(grade.count("a"))
+
+# grade = ["b", "a", "c", "b", "a", "c"]
+# grade.sort()
+# print(grade)
