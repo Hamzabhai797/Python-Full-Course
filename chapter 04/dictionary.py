@@ -30,6 +30,14 @@
 # print(student.update({"name": "ali"})) # updates the value of the key "name" in the dictionary to "ali"
 # print(student) # prints the updated dictionary
 
-student = {"name": "hamza", "marks": {"math": 90, "ict": 80, "pf": 70}, "age": 22, "country": "Pakistan"} 
-print(student.update({"marks": 100}))
-print(student)
+# student = {"name": "hamza", "marks": {"math": 90, "ict": 80, "pf": 70}, "age": 22, "country": "Pakistan"} 
+# print(student.update({"marks": 100}))
+# print(student)
+
+# info = {"name": "hamza", "age": 22, "country": "Pakistan"}
+# print(info.get("country"))  # returns the value of the key "country" in the
+# print(info.keys())  # returns all keys of the dictionary
+# print(info.values())  # returns all values of the dictionary
+# print(info.items())  # returns all items of the dictionary in list form
+
+# time 4:15:00

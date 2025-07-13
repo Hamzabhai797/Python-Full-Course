@@ -74,3 +74,16 @@
 
 # str = "i am learning python from youtube"
 # print(str.count("m")) # count function ma jo argument hoga wo kitni bar repeat ho raha ha wo count karaga
+
+
+# str = "i am learning python from youtube"
+# print(str.strip())
+
+# str = "i am learning python from youtube"
+# print(str.replace("youtube", "google"))
+
+# str = "i am learning python from youtube"
+# print(str.find("o"))
+
+# str = "i am learning python from youtube"
+# print(str.split("o")) # split function ma jo argument hoga wo string ko split karaga
