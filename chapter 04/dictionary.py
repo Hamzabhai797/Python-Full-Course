@@ -35,9 +35,27 @@
 # print(student)
 
 # info = {"name": "hamza", "age": 22, "country": "Pakistan"}
+# print(info.update({"name": "Khan"}))  # updates the value of the key "name" in the dictionary to "Khan"
+# print(info)  # prints the updated dictionary
+# info["name"] = "Khan"
+# print(info)  # updates the value of the key "name" in the dictionary to "Khan"
 # print(info.get("country"))  # returns the value of the key "country" in the
 # print(info.keys())  # returns all keys of the dictionary
 # print(info.values())  # returns all values of the dictionary
 # print(info.items())  # returns all items of the dictionary in list form
+# print(info["country"])
 
-# time 4:15:00
+
+                # nested dictionary with subject marks
+# student = {
+#     "name": "hamza",
+#     "subject" : {
+#         "math": 60,
+#         "ict": 70,
+#         "pf": 80
+#     }
+# }
+# # print(student["subject"])  # prints the subject marks dictionary
+# print(student["subject"]["math"])  # prints the marks of math subject
+
+# time 4:24:00
