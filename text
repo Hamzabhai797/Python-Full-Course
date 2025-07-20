@@ -154,4 +154,5 @@
     #         while loop ma humary pass break and continue bhi hota hay break ka matlab hota hay ka loop ko band kar do and continue ka matlab hota hay ka loop ko chalay do yani next iteration per chalay jao
     #         while loop ma humary pass condition hoti hay jab tak wo condition true hoti hay tab tak loop chalay ga
     #         while loop ma humary pass infinite loop bhi hota hay yani jab tak condition true hoti hay tab tak loop chalay ga (Example: while True: print("Hello Hamza"))
-            
+    #         Humy agr kisi iterater pa kaam karna hay mean ka changing karna yani update stoping condition to wo hum while loop se karenagy
+    #         

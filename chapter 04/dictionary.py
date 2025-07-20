@@ -58,4 +58,21 @@
 # # print(student["subject"])  # prints the subject marks dictionary
 # print(student["subject"]["math"])  # prints the marks of math subject
 
-# time 4:24:00
+# dict = {
+#     "cat": "a small animal",
+#     "table": ["a piece of furniture", "list of fact & figures"]
+# }
+# print(dict)  # prints the dictionary
+# print(dict["cat"])  # prints the definition of "cat"
+
+marks = {}
+x = int(input("Enter Phy number: "))
+marks.update({"phy" : x})
+
+x = int(input("Enter chem number: "))
+marks.update({"chem" : x})
+
+x = int(input("Enter math number: "))
+marks.update({"Math" : x})
+
+print(marks)
