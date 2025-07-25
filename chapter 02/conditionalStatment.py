@@ -192,3 +192,10 @@
 #     for j in range(1, 4):
 #         print(j, end="")
 #     print()
+
+
+a = int(input("Enter a number: "))
+if a < 0:
+    print("Negative number")
+else:
+    print("Positive number")
