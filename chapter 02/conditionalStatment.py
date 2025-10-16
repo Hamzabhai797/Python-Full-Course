@@ -194,8 +194,35 @@
 #     print()
 
 
-a = int(input("Enter a number: "))
-if a < 0:
-    print("Negative number")
-else:
-    print("Positive number")
+# a = int(input("Enter a number: "))
+# if a < 0:
+#     print("Negative number")
+# else:
+#     print("Positive number")
+
+# num = int(input("Enter a number: "))
+# if num > 0 :
+#     print("This is positive number")
+# else:
+#     print("This is negative number")
+
+# num = int(input("Enter a number: "))
+# if num == 0:
+#     print("This is Zero")
+# elif num > 0:
+#     print("This is positive number")
+# else:
+#     print("This is negative number")
+
+# num = int(input("Enter a number: "))
+# if num >= 18:
+#     print("You are eligible to vote")
+# else:
+#     print("You are not eligible to vote")
+
+# num = int(input("Enter a number: "))
+# if num % 2 == 0:
+#     print("This is an even number")
+# else:
+#     print("This is an odd number")
+

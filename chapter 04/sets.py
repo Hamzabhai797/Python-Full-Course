@@ -42,11 +42,9 @@
 # print(len(subject))  # prints the number of unique subjects
 # print(type(subject))  # prints the type of the variable, which is set
 
-values = {
-    ("int", 9),
-    ("float", 9.0)
-}
+# values = {
+#     ("int", 9),
+#     ("float", 9.0)
+# }
 
-print(values)
-
-# time 4:56:00
+# print(values)

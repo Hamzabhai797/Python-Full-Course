@@ -65,14 +65,14 @@
 # print(dict)  # prints the dictionary
 # print(dict["cat"])  # prints the definition of "cat"
 
-marks = {}
-x = int(input("Enter Phy number: "))
-marks.update({"phy" : x})
+# marks = {}
+# x = int(input("Enter Phy number: "))
+# marks.update({"phy" : x})
 
-x = int(input("Enter chem number: "))
-marks.update({"chem" : x})
+# x = int(input("Enter chem number: "))
+# marks.update({"chem" : x})
 
-x = int(input("Enter math number: "))
-marks.update({"Math" : x})
+# x = int(input("Enter math number: "))
+# marks.update({"Math" : x})
 
-print(marks)
+# print(marks)

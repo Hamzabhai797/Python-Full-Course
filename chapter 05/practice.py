@@ -49,3 +49,43 @@
 #     if i == 4:
 #         break
 #     i == 1
+
+
+# for i in range(1, 101):
+    # print(i)
+
+# for i in range(100, 0, -1):
+    # print(i)
+
+# n = int(input("Enter number: "))
+# for i in range(1, 11):
+    # print(i * n)
+
+# pass statment
+# for i in range(5):
+#     pass
+
+
+# n = 5
+# sum = 0
+# for i in range(1, n+1):
+#     sum += i
+# print("Total: ", sum)
+
+# n = 5
+# sum = 0
+# i = 1
+# while  i <= n:
+#     sum += i
+#     i+= 1
+# print("total: ", sum)
+
+n = 5
+fact = 1
+i = 1
+while  i <= n:
+    fact *= i
+    i+= 1
+print("total: ", fact)
+
+# time 6:00:00

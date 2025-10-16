@@ -156,3 +156,15 @@
     #         while loop ma humary pass infinite loop bhi hota hay yani jab tak condition true hoti hay tab tak loop chalay ga (Example: while True: print("Hello Hamza"))
     #         Humy agr kisi iterater pa kaam karna hay mean ka changing karna yani update stoping condition to wo hum while loop se karenagy
     #         
+    #         pass statment (Null statment)
+
+
+    # function ko hum reduncy kam karny ka liay use karty hay
+#     function ko hum jab proper likty hay us ko function defination kehty hay
+    # parameter humary pass functions ma round brackets hoty hay and ma function call karty hay
+    # arguments function call karty huay dety hay
+    # python ka undr functions 2 type ka hoty hay (built in function, user defined function)
+
+# recursion
+#recursion loops ka danger version hota hay
+# recursion loops sa easy code deta hay

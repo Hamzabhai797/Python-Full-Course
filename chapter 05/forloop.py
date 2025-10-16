@@ -63,7 +63,18 @@
 # for i in seq:
 #     print(i)
 
-for i in range(10):
-    print(i)
+# for i in range(10):
+#     print(i)
+
+
+# for i in range(2, 10):
+#     print(i)
+
+# for i in range(2, 20, 3):  #pehla start, 2nd stop, step
+    # print(i)
+
+# for i in range(2, 100, 2):
+#     print(i)
+
 
 # time 5:50:00

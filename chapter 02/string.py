@@ -87,3 +87,14 @@
 
 # str = "i am learning python from youtube"
 # print(str.split("o")) # split function ma jo argument hoga wo string ko split karaga
+
+# str1 = "Hamza"
+# str2 = "Khan"
+# proper = str1 + " " + str2
+# print(proper)
+
+# str = "Ha"
+# print(str * 3)
+
+# str = "python"
+# print(len(str))
