@@ -176,4 +176,24 @@
     # OOP
 # procedural programming yani sequence sa sara code run hona pir function aaya us ne humy sikhaya ka reuseability redandency ko reduce karny ka liay function sa aik uper level ka method OOP hay
 # is ma kisi bhi chees ko object banaya jasakta hay but object banany sa pehle us ki class banaty hay OOP ka under class blueprint hota hay
-# time 6:00:00
+# class ko hum capital letter sa start karty hay
+# class ko hum directly use nahi karsakty class ki pir humy object banani perhti hay(object ko intance kehty hay programming ke under) instance ya intances of class
+
+    # Constructor
+# constructor aik special function hota hay har class ka under jis ko hum init function kehty hay ya constructor bhi kehtay hay 
+# ya object creation ka time pa invoke hota hay mean ka exacute hota hay
+# python humary liay automatic init function create karti hay chahy ap init liko ya na liko but is ko hum likhty bhi hay
+# constructor hamesha aik argument leta hay(yani parameter leta hay)first parameter hamesha self hota hay
+# constructor ke under hum multiple parameter bhi le saktay hay
+# constructor har new object ka saat call hota hay
+# jitna bhi data store kia jata hay usko hum attribute kehty hay
+
+#   instance attribute 
+# instance attribute wo hota hay jo har object ka apna hota hay
+
+#       Methods
+# methods wo functions hotay hain jo class ke andar define kiye jate hain
+# methods ko call karne ke liye hume object ka istemal karna parta hai
+# methods ko call karte waqt pehle self parameter pass hota hai
+
+# time 34:40
