@@ -215,4 +215,15 @@
 # Aesa data jo har object ka alg alg hota hay usko hum self. sa declare kartay hain
 # Aesa data jo har object ka common hota hay usko hum class name sa declare kartay hain
 
-# time 35:30
+        # Static Method
+# static method wo hota hay jo class ke andar define kiya jata hay magar uska self parameter nahi hota
+# is ma hum aik decorator lagaty hain @staticmethod
+
+        # Abstraction 
+# abstraction mean chupa hua data
+# unnecessary data ko chhupana and essential data ko show karna abstraction kehlata hai
+
+        # Encapsulation
+# jab bhi hum koi class bana rahy hay us ka under attribute bhi hay and methods bhi hay to us ko hum encapsulation kehty hain
+
+# time part one complete
