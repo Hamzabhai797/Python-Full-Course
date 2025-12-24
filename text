@@ -226,4 +226,37 @@
         # Encapsulation
 # jab bhi hum koi class bana rahy hay us ka under attribute bhi hay and methods bhi hay to us ko hum encapsulation kehty hain
 
-# time part one complete
+        # del keyword
+# is keyword sa hum kisi bhi object ya us ki properties ko delete kartay hay delete 
+
+        # private attriubute and method
+# jis information ko hum class sa bahir pass karna nahi chahtay to us ko private karty hay
+
+        # Inheritance
+# parent to child ko pass karta hay
+# child to parent ko nahi pass karta
+# types of inheritance
+#     1. single inheritance
+#     2. multi level inheritance
+#     3. hierarchical inheritance
+#     4. multiple inheritance
+
+# multiple inheritance ma aik child class hoti hay or uska 2 ya 2 sa zyada parent hotay hain
+
+# Aik sa ziyada inheritance jab bhi use kartay hay to unko hybrid inheritance kehtay hay
+
+        # super method
+# ya aik special method hota hay classes ke undr
+
+        # class method
+# jo kaam staticmethod nahi kar pati us ko classmethod karti hay
+# is ma hum aik decorator use kartay hain @classmethod
+
+        # property decorator
+# is decorator ka use hum getter and setter method banany k liay karty hain
+# getter method ka use hum attribute ki value ko get karne k liay karty hain
+
+        # polymorphism overloading
+# polymrophism ka matlab hay aik sa ziyada form
+# overloading ka matlab hay aik hi name ka function ya operator different different kaam karn
+# time = 46:00
